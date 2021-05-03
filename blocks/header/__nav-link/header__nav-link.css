@@ -1,0 +1,16 @@
+.header__nav-link {
+  font-weight: 300px;
+  font-size: 14px;
+  line-height: 17.5px;
+  letter-spacing: 0.2px;
+  color: var(--main-text_black);
+  margin-right: 30px;
+}
+
+/* .header__nav-link:last-of-type {
+  margin-right: 0;
+} */
+
+.header__nav-link:hover {
+  color: var(--background_blue);
+}
