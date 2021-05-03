@@ -1,10 +1,22 @@
 .page__header {
-  width: 100%;
+  width: calc(100% - 2 * 75px);
   margin: 0 auto;
 }
 
-@media screen and (max-width: 6px) {
+@media screen and (max-width: 1919px) {
   .page__header {
-    padding: 0 16px;
+    width: calc(100% - 2 * 135px);
+  }
+}
+
+@media screen and (max-width: 1439px) {
+  .page__header {
+    width: calc(100% - 2 * 117px);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .page__header {
+    width: 100%;
   }
 }
