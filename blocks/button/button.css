@@ -1,0 +1,37 @@
+.button {
+  text-decoration: none;
+  color: var(--main-text_black);
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: 0.2px;
+  padding: 13px 20px 16px;
+  border: solid 1px var(--main-text_black);
+  border-radius: 100px;
+  background-color: transparent;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.button:link {
+  border-color: #2e2468;
+  background-color: #2e2468;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.25);
+}
+
+.button:visited {
+  /* border-color: #2e2468;
+  background-color: #2e2468;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.25); */
+}
+
+.button:hover {
+  background-color: #a7a6a6;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.25);
+}
+
+.button:active {
+  background-color: #000000;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.25);
+  color: var(--page__background);
+}

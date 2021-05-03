@@ -1,0 +1,13 @@
+:root {
+  --page__background: #f3f2f2;
+  --background_blue: #224cff;
+  --background_dark-purple: #2e2468;
+  --background_dark-grey: #464646;
+  --background_light-grey: #a7a6a6;
+  --background_light-purple: #c8d1ff;
+  --background_light-pink: #ff8585;
+  --background_yellow: #f8d162;
+  --background_light-green: #8cdd94;
+  --background_light-red: #ff4e4e;
+  --main-text_black: #000000;
+}
