@@ -13,6 +13,9 @@
 @import url(../blocks/header/__frame/header__frame.css);
 @import url(../blocks/header/__icon-search/header__icon-search.css);
 @import url(../blocks/header/__icon-user/header__icon-user.css);
+@import url(../blocks/header/__aside-menu/header__aside-menu.css);
 @import url(../blocks/header/__vl/header__vl.css);
+@import url(../blocks/header/_visibility/header_visability_hide.css);
+@import url(../blocks/header/_visibility/header_visability_visible.css);
 
 @import url(../blocks/button/button.css);
