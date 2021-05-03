@@ -25,8 +25,10 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__author/card__author.css);
 @import url(../blocks/card/__link/card__link.css);
+@import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/button/button.css);
 
 @import url(../blocks/card/card.css);
 @import url(../blocks/content/__card/_color/content__card_color_green.css);
 @import url(../blocks/content/__card/_color/content__card_color_light-blue.css);
+@import url(../blocks/content/__card/_color/content__card_color_white.css);
