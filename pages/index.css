@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts/PT\ Root\ UI_Regular.css);
+@import url(../vendor/fonts/fonts.css);
 @import url(../blocks/vars/vars.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
@@ -23,6 +23,7 @@
 @import url(../blocks/content/_frame/content_frame_rounding.css);
 @import url(../blocks/card/__header/card__header.css);
 @import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__author/card__author.css);
 @import url(../blocks/card/__link/card__link.css);
 @import url(../blocks/card/__text/card__text.css);
