@@ -1,0 +1,14 @@
+.card__header {
+  position: absolute;
+  top: 10px;
+  left: auto;
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 2px 7px;
+  background: var(--backgroud_light_grey);
+  border-radius: 15px;
+  text-transform: uppercase;
+}
