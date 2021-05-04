@@ -1,5 +1,6 @@
 .calendar__date-number {
   margin: 0;
+  padding-top: 10px;
   text-align: right;
   font-style: normal;
   font-weight: 300;
