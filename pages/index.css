@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts/PT\ Root\ UI_Regular.css);
+@import url(../vendor/fonts/PTRootUIRegular.css);
 @import url(../blocks/vars/vars.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
@@ -12,3 +12,9 @@
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 
 @import url(../blocks/button/button.css);
+
+
+
+/*----------------------- Блок Footer ------------------------------ */
+
+@import url('../blocks/footer/footer.css');
