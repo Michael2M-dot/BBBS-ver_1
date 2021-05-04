@@ -1,0 +1,7 @@
+.card__video {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 420px;
+  height: 239px;
+}
