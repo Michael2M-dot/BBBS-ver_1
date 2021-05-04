@@ -1,3 +1,12 @@
 .calendar__title {
-  
+  max-width: 320px;
+  margin: 0;
+  margin-top: 10px;
+
+  font-style: normal;
+  font-weight: 300;
+  font-size: 23px;
+  line-height: 30px;
+
+  color: #000000;
 }
