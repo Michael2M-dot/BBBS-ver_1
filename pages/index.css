@@ -31,6 +31,19 @@
 @import url(../blocks/button/button.css);
 
 
+@import url(../blocks/card/card.css);
+@import url(../blocks/content/__card/_color/content__card_color_green.css);
+@import url(../blocks/content/__card/_color/content__card_color_light-blue.css);
+@import url(../blocks/content/__card/_color/content__card_color_white.css);
+@import url(../blocks/content/__card/_color/content__card_color_yellow.css);
+@import url(../blocks/content/__card/_content/content__card_content_articles.css);
+@import url(../blocks/content/__card/_content/content__card_content_books.css);
+@import url(../blocks/content/__card/_content/content__card_content_images.css);
+@import url(../blocks/content/__card/_content/content__card_content_videos.css);
+@import url(../blocks/content/__card/_content/content__card_content_text.css);
+
+@import url(../blocks/card/card_1.css);
+
 
 /*----------------------- Блок Footer ------------------------------ */
 
