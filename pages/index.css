@@ -22,12 +22,14 @@
 @import url(../blocks/content/__card/content__card.css);
 @import url(../blocks/content/_frame/content_frame_rounding.css);
 @import url(../blocks/card/__header/card__header.css);
+@import url(../blocks/card/__header/card__header_pos_video.css);
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__author/card__author.css);
 @import url(../blocks/card/__link/card__link.css);
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__video/card__video.css);
 @import url(../blocks/button/button.css);
 
 @import url(../blocks/card/card.css);
@@ -42,3 +44,5 @@
 @import url(../blocks/content/__card/_content/content__card_content_text.css);
 
 @import url(../blocks/card/card_1.css);
+@import url(../blocks/card/card_video.css);
+/* временный селектор для передачи размера */
