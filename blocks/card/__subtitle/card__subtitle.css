@@ -1,0 +1,9 @@
+.card__subtitle {
+  font-family: "Proto Grotesk Light";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 0.2px;
+  color: var(--background_dark-grey);
+  align-self: flex-start;
+}

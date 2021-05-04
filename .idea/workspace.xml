@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b100d23-580d-40a2-b81d-5d7afb45874e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/__header/page__header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__header/page__header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BBBS1" beforeDir="false" afterPath="$PROJECT_DIR$/../BBBS1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Extra-task-WOODIES" beforeDir="false" afterPath="$PROJECT_DIR$/../Extra-task-WOODIES" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hanger-People" beforeDir="false" afterPath="$PROJECT_DIR$/../Hanger-People" afterDir="false" />
@@ -54,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619922145447</updated>
       <workItem from="1619922146602" duration="17000" />
-      <workItem from="1620014168695" duration="5093000" />
+      <workItem from="1620014168695" duration="5162000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1620015468907</created>

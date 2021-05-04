@@ -1,0 +1,9 @@
+.content__card_content_articles {
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 15px;
+  padding-right: 30px;
+  align-items: center;
+  justify-content: flex-start;
+}
