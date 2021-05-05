@@ -1,7 +1,6 @@
 .button {
   box-sizing: border-box;
   text-decoration: none;
-  color: var(--text-color_black);
   font-weight: 300;
   font-size: 15px;
   line-height: 19px;
@@ -25,7 +24,7 @@
 }
 
 .button:active {
-  background-color: #000000;
+  background-color: var(--border-color_black);
   color: var(--page__background);
 }
 

@@ -6,6 +6,7 @@
   --background_grey: #a7a6a6;
   --background_grey_dark: #464646;
   --background_grey_light: #e0e0e0;
+  --background_grey_light_70: #e0e0e0b3;
   --background_green: #8cdd94;
   --background_orange: #ff8585;
   --background_red: #ff4e4e;
@@ -13,7 +14,7 @@
   --background_yellow: #f8d162;
   --text-color_black: #000000;
   --text-color_gray_dark: #464646;
-  --text-color_gray_light: #a7a6a6;
+  --text-color_gray_light: #531f1f;
   --text-color_green: #8cdd94;
   --text-color_white: #ffffff;
   --text-color_blue: #224cff;
