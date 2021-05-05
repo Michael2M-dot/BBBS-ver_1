@@ -1,7 +1,7 @@
 .page {
   background-color: var(--page__background);
   color: var(--text-color_black);
-  font-weight: 300;
+  font-weight: 400;
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;

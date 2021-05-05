@@ -5,5 +5,20 @@
   line-height: 19px;
   letter-spacing: 0.2px;
   color: var(--background_dark-grey);
+}
+
+.card__subtitle_pos {
   align-self: flex-start;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+  .card__subtitle {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .card__subtitle_pos {
+    margin-bottom: 5px;
+  }
 }

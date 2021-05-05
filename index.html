@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./pages/index.css" />
   </head>
 
-  <body class="page">
+  <body class="page page__content">
     <div class="page__container">
       <header class="header section page__header">
         <a
@@ -56,134 +56,137 @@
         >Hello</a
       >
 
-      <div class="main">
-        <article class="calendar">
-          <p class="calendar__sup">
-            Волонтеры <span class="calendar__sup-span">+ дети</span>
-          </p>
-          <h2 class="calendar__title">
-            Субботний meet up: учимся проходить интевью
-          </h2>
-          <ul class="calendar__plan">
-            <li class="calendar__plan-item">12:00-14:00</li>
-            <li class="calendar__plan-item">
-              Садовническая наб., д. 77 стр. 1 (офис компании Ernst&Young)
-            </li>
-            <li class="calendar__plan-item">Александра, +7 926 356-78-90</li>
-          </ul>
-          <div class="calendar__wrap-signup">
-            <div class="calendar__wrap-button">
-              <a
-                class="button calendar__button"
-                href="#"
-                target="_self"
-                rel="nooppener noreferrer"
-                >Записаться</a
-              >
-              <p class="calendar__count">
-                Осталось <span class="calendar__count-span">5</span> мест
-              </p>
-            </div>
-            <button class="calendar__button-option">
-              <img
-                class="calendar__button-img"
-                src="./images/calendar-options.svg"
-                alt="Кнопка с опциями"
-              />
-            </button>
-          </div>
-          <div class="calendar__date">
-            <p class="calendar__date-month-day">декабрь / понедельник</p>
-            <h2 class="calendar__date-number">05</h2>
-          </div>
-        </article>
-
-      </section>
-      <section class="content">
-        <!-- карточка статьи -->
-        <article
-          class="card content__card content_frame_rounding content_styles_article content_colors_green"
-        >
-          <p class="card__header">выбор наставника</p>
-          <h2 class="card__title">
-            Симбиоз со знаком «плюс» и симбиоз со знаком «минус» – для чего
-            нужен переходный Симбиоз со знаком «плюс» и симбиоз со знаком
-            «минус» – для чего нужен переходный Симбиоз со знаком «плюс» и
-            симбиоз со знаком «минус» – для чего нужен переходный Симбиоз со
-            знаком «плюс» и симбиоз со знаком «минус» – для чего нужен
-            переходный
-          </h2>
-          <p class="card__author">Ирина Стасенко, педагог-психолог</p>
-          <a href="" class="card__link">читать на сайте</a>
-        </article>
-
-        <!-- карточка для обычного текста на белом фоне-->
-        <article
-          class="card content__card content_frame_rounding content_styles_blockquote content_colors_white"
-        >
-          <span class="card__subtitle">Девочка, 10 лет. Познавательный</span>
-          <p class="card__text">
-            Аннотация книги в несколько абзацев. В тот момент, как ребёнок
-            научился говорить, и не одно слово, а задавать бесконечное
-            количество вопросов, жизнь меняется. Вы будете не понимать друг
-            друга, потом понимать чуть лучше и, в конце концов, научитесь даже
-            шутить. В тот момент, как ребёнок научился говорить, и не одно
-            слово, а задавать бесконечное количество вопросов, жизнь меняется.
-            Аннотация статьи в несколько абзацев. Аннотация статьи в несколько
-            абзацев. В тот момент, как ребёнок научился говорить, и не одно
-            слово, а задавать бесконечное количество вопросов, жизнь меняется.
-            Вы будете не понимать друг друга, потом понимать чуть лучше и,
-            в конце концов, научитесь даже шутить. Аннотация статьи в несколько
-            абзацев.
-          </p>
-        </article>
-
-        <!-- карточка с изображением -->
-        <article
-          class="card_1 content__card content_frame_rounding content_styles_photo content_colors_yellow"
-        >
-          <p class="card__header">выбор наставника</p>
-          <h2 class="card__title">
-            Симбиоз со знаком «плюс» и симбиоз со знаком «минус» – для чего
-            нужен переходный Симбиоз со знаком «плюс» и симбиоз со знаком
-            «минус» – для чего нужен переходный Симбиоз со знаком «плюс» и
-            симбиоз со знаком «минус» – для чего нужен переходный Симбиоз со
-            знаком «плюс» и симбиоз со знаком «минус» – для чего нужен
-            переходный
-          </h2>
-          <p class="card__author">Ирина Стасенко, педагог-психолог</p>
-          <img src="/images/photo_1.png" alt="" class="card__image" />
-          <a href="" class="card__link">читать на сайте</a>
-        </article>
-      </section>
-
-      <!-- карточка с видео -->
-        <article
-          class="card_video content__card content_frame_rounding "
-        >
-          <div class="content__card content__card_content_videos">
-            <img src="./images/video_sreen.png" alt="" class="card__video">
-             <div class="card__header">
-              <p class="card__header">выбор наставника</p>
-              <p class="card__header">выбор наставника</p>
-            </div>
-          </div>
-          <div class="card content__card content_styles_article">
-            <h2 class="card__title">
-              Симбиоз со знаком «плюс» и симбиоз
+      <main class="main">
+        <section class="content">
+          <!-- карточка календаря -->
+          <article class="calendar">
+            <p class="calendar__sup">
+              Волонтеры <span class="calendar__sup-span">+ дети</span>
+            </p>
+            <h2 class="calendar__title">
+              Субботний meet up: учимся проходить интевью
             </h2>
-            <p class="card__author">Ирина Стасенко, педагог-психолог</p>
+            <ul class="calendar__plan">
+              <li class="calendar__plan-item">12:00-14:00</li>
+              <li class="calendar__plan-item">
+                Садовническая наб., д. 77 стр. 1 (офис компании Ernst&Young)
+              </li>
+              <li class="calendar__plan-item">Александра, +7 926 356-78-90</li>
+            </ul>
+            <div class="calendar__wrap-signup">
+              <div class="calendar__wrap-button">
+                <a
+                  class="button calendar__button"
+                  href="#"
+                  target="_self"
+                  rel="nooppener noreferrer"
+                  >Записаться</a
+                >
+                <p class="calendar__count">
+                  Осталось <span class="calendar__count-span">5</span> мест
+                </p>
+              </div>
+              <button class="calendar__button-option">
+                <img
+                  class="calendar__button-img"
+                  src="./images/calendar-options.svg"
+                  alt="Кнопка с опциями"
+                />
+              </button>
+            </div>
+            <div class="calendar__date">
+              <p class="calendar__date-month-day">декабрь / понедельник</p>
+              <h2 class="calendar__date-number">05</h2>
+            </div>
+          </article>
+
+          <!-- карточка статьи -->
+          <article
+            class="card card_size_s content_frame_rounding content_styles_article content_colors_green"
+          >
+            <p class="card__header card__header_pos">выбор наставника</p>
+            <h2 class="card__title card__title_pos">
+              Симбиоз со знаком «плюс» и симбиоз со знаком «минус» – для чего
+              нужен переходный Симбиоз со знаком «плюс» и симбиоз со знаком
+              «минус» – для чего нужен переходный Симбиоз со знаком «плюс» и
+              симбиоз со знаком «минус» – для чего нужен переходный Симбиоз со
+              знаком «плюс» и симбиоз со знаком «минус» – для чего нужен
+              переходный
+            </h2>
+            <p class="card__author card__author_pos">
+              Ирина Стасенко, педагог-психолог
+            </p>
             <a href="" class="card__link">читать на сайте</a>
-          </div>
-          
-        </article>
-      </section>
+          </article>
 
+          <!-- карточка для обычного текста на белом фоне-->
+          <article
+            class="card card_size_s content_frame_rounding content_styles_blockquote content_colors_white"
+          >
+            <span class="card__subtitle card__subtitle_pos"
+              >Девочка, 10 лет. Познавательный</span
+            >
+            <p class="card__text card__text_pos">
+              Аннотация книги в несколько абзацев. В тот момент, как ребёнок
+              научился говорить, и не одно слово, а задавать бесконечное
+              количество вопросов, жизнь меняется. Вы будете не понимать друг
+              друга, потом понимать чуть лучше и, в конце концов, научитесь даже
+              шутить. В тот момент, как ребёнок научился говорить, и не одно
+              слово, а задавать бесконечное количество вопросов, жизнь меняется.
+              Аннотация статьи в несколько абзацев. Аннотация статьи в несколько
+              абзацев. В тот момент, как ребёнок научился говорить, и не одно
+              слово, а задавать бесконечное количество вопросов, жизнь меняется.
+              Вы будете не понимать друг друга, потом понимать чуть лучше и,
+              в конце концов, научитесь даже шутить. Аннотация статьи в
+              несколько абзацев.
+            </p>
+          </article>
 
-      <a class="button" href="#" target="_self" rel="nooppener noreferrer"
-        >Hello</a
-      >
+          <!-- карточка с изображением -->
+          <article
+            class="card content_frame_rounding content_styles_photo content_colors_yellow card_size_l"
+          >
+            <p class="card__header card__header_pos">выбор наставника</p>
+            <h2 class="card__title card__title_pos">
+              Симбиоз со знаком «плюс» и симбиоз со знаком «минус» – для чего
+              нужен переходный Симбиоз со знаком «плюс» и симбиоз со знаком
+            </h2>
+            <p class="card__author card__author_pos">
+              Ирина Стасенко, педагог-психолог
+            </p>
+            <img src="/images/photo_1.png" alt="" class="card__image" />
+            <a href="" class="card__link">читать на сайте</a>
+          </article>
 
+          <!-- карточка с видео -->
+          <article class="card content_frame_rounding card_size_s">
+            <div class="content_styles_video">
+              <img src="./images/video_screen.png" alt="" class="card__video" />
+              <div class="">
+                <p class="card__header card__header_pos_bottom">
+                  выбор наставника
+                </p>
+                <p class="card__header card__header_pos_bottom">
+                  выбор наставника
+                </p>
+              </div>
+            </div>
+            <div class="card content_styles_article content_colors_white">
+              <h2 class="card__title card__title_pos">
+                Симбиоз со знаком «плюс» и симбиоз
+              </h2>
+              <p class="card__author card__author_pos">
+                Ирина Стасенко, педагог-психолог
+              </p>
+              <a href="" class="card__link">читать на сайте</a>
+            </div>
+          </article>
+        </section>
+
+        <a class="button" href="#" target="_self" rel="nooppener noreferrer"
+          >Hello</a
+        >
+      </main>
     </div>
   </body>
 </html>

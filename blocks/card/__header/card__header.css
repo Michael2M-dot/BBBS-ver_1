@@ -3,8 +3,19 @@
   letter-spacing: 1px;
   text-align: center;
   padding: 2px 7px;
-  background: var(--backgroud_light_grey);
+  background-color: var(--background_grey_light);
   border-radius: 15px;
   text-transform: uppercase;
-  margin: 0 auto 12px;
+}
+
+.card__header_pos {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.card__header_pos_bottom {
+  position: absolute;
+  bottom: 10px;
+  right: auto;
+  margin: 0;
 }

@@ -3,6 +3,17 @@
   font-size: 14px;
   line-height: 19px;
   letter-spacing: 0.2px;
-  margin: 0;
-  color: var(--background_dark-grey);
+  color: var(--text-color_gray_dark);
+}
+
+.card__author_pos {
+  margin: 5px auto 0;
+  align-self: flex-start;
+}
+/* размер шрифта переключаем на 1024 */
+@media screen and (max-width: 1024px) {
+  .card__author {
+    font-size: 12px;
+    line-height: 17px;
+  }
 }
