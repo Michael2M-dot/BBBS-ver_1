@@ -13,6 +13,7 @@
 
 .card__title_pos {
   margin: 0;
+  margin-bottom: 5px;
   align-self: flex-start;
 }
 
