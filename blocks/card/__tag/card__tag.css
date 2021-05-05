@@ -1,19 +1,19 @@
-.card__header {
+.card__tag {
   font-size: 10px;
   letter-spacing: 1px;
   text-align: center;
   padding: 2px 7px;
-  background-color: var(--background_grey_light);
+  background-color: var(--background_grey_light), 60%;
   border-radius: 15px;
   text-transform: uppercase;
 }
 
-.card__header_pos {
+.card__tag_pos {
   margin: 0;
   margin-bottom: 5px;
 }
 
-.card__header_pos_bottom {
+.card__tag_pos_bottom {
   position: absolute;
   bottom: 10px;
   right: auto;
