@@ -39,6 +39,7 @@
 @import url(../blocks/card/card_1.css);
 @import url(../blocks/card/card_video.css);
 /* временный селектор для передачи размера */
+<<<<<<< HEAD
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/calendar/calendar.css);
@@ -56,3 +57,5 @@
 @import url(../blocks/calendar/__wrap-signup/calendar__wrap-signup.css);
 @import url(../blocks/calendar/__button-option/calendar__button-option.css);
 @import url(../blocks/calendar/__button-img/calendar__button-img.css);
+=======
+>>>>>>> feature/frames
