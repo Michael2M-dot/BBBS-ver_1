@@ -57,7 +57,7 @@
 @import url(../blocks/header/_visibility/header_visability_visible.css);
 
 @import url(../blocks/card/__tag/card__tag.css);
-@import url(../blocks/card/__tag/card__tag_pos_video.css);
+@import url(../blocks/card/__tag/card__tag-wrapper.css);
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__author/card__author.css);
