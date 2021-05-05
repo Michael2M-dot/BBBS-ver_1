@@ -1,15 +1,26 @@
 :root {
   --page__background: #f3f2f2;
-  --backgroud_light_grey: #f3f2f24d;
   --background_blue: #224cff;
-  --background_dark-purple: #2e2468;
-  --background_dark-grey: #464646;
-  --background_light-grey: #a7a6a6;
-  --background_light-purple: #c8d1ff;
-  --background_light-pink: #ff8585;
-  --background_yellow: #f8d162;
-  --background_light-green: #8cdd94;
-  --background_light-red: #ff4e4e;
+  --background_blue_light: #c8d1ff;
+  --background_blue_dark: #2e2468;
+  --background_grey: #a7a6a6;
+  --background_grey_dark: #464646;
+  --background_grey_light: #e0e0e0;
+  --background_green: #8cdd94;
+  --background_orange: #ff8585;
+  --background_red: #ff4e4e;
   --background_white: #ffffff;
-  --main-text_black: #000000;
+  --background_yellow: #f8d162;
+  --text-color_black: #000000;
+  --text-color_gray_dark: #464646;
+  --text-color_gray_light: #a7a6a6;
+  --text-color_green: #8cdd94;
+  --text-color_white: #ffffff;
+  --text-color_blue: #224cff;
+  --text-color_blue_dark: #2e2468;
+  --text-color_orange: #ff8585;
+  --border-color_blue: #224cff;
+  --border-color_black: #000000;
+  --border-color_background: #f3f2f2;
+  --border-color_blue_dark: #2e2468;
 }
