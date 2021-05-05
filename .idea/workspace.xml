@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8b100d23-580d-40a2-b81d-5d7afb45874e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BBBS1" beforeDir="false" afterPath="$PROJECT_DIR$/../BBBS1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Extra-task-WOODIES" beforeDir="false" afterPath="$PROJECT_DIR$/../Extra-task-WOODIES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hanger-People" beforeDir="false" afterPath="$PROJECT_DIR$/../Hanger-People" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yandex-travel/yandex-travel" beforeDir="false" afterPath="$PROJECT_DIR$/../Yandex-travel/yandex-travel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-project" beforeDir="false" afterPath="$PROJECT_DIR$/../first-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../how-to-learn" beforeDir="false" afterPath="$PROJECT_DIR$/../how-to-learn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple_calc" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_calc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/button/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__header/card__header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__header/card__header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,7 @@
       <updated>1619922145447</updated>
       <workItem from="1619922146602" duration="17000" />
       <workItem from="1620014168695" duration="5162000" />
+      <workItem from="1620204053964" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1620015468907</created>
