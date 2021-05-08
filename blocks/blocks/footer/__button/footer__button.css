@@ -1,0 +1,18 @@
+.footer__button {
+	margin-top: 20px;
+	margin-right: 131px;
+}
+
+@media (max-width: 1150px) {
+	.footer__button {
+		margin-right: 50px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.footer__button {
+		order: 1;
+		margin-top: 15px;
+		margin-right: 0;
+	}
+}

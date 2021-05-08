@@ -1,0 +1,4 @@
+.card__tag-wrapper {
+  display: flex;
+  flex-direction: row;
+}

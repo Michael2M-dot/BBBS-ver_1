@@ -1,0 +1,27 @@
+:root {
+  --page__background: #f3f2f2;
+  --background_blue: #224cff;
+  --background_blue_light: #c8d1ff;
+  --background_blue_dark: #2e2468;
+  --background_grey: #a7a6a6;
+  --background_grey_dark: #464646;
+  --background_grey_light: #e0e0e0;
+  --background_grey_light_70: #e0e0e0b3;
+  --background_green: #8cdd94;
+  --background_orange: #ff8585;
+  --background_red: #ff4e4e;
+  --background_white: #ffffff;
+  --background_yellow: #f8d162;
+  --text-color_black: #000000;
+  --text-color_gray_dark: #464646;
+  --text-color_gray_light: #531f1f;
+  --text-color_green: #8cdd94;
+  --text-color_white: #ffffff;
+  --text-color_blue: #224cff;
+  --text-color_blue_dark: #2e2468;
+  --text-color_orange: #ff8585;
+  --border-color_blue: #224cff;
+  --border-color_black: #000000;
+  --border-color_background: #f3f2f2;
+  --border-color_blue_dark: #2e2468;
+}

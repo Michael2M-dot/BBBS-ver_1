@@ -1,0 +1,6 @@
+.calendar__date {
+  position: absolute;
+
+  top: 30px;
+  right: 30px;
+}

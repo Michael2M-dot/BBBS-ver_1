@@ -1,0 +1,17 @@
+.footer__authors-inner {
+	display: flex;
+	flex-direction: column;
+}
+
+@media (max-width: 1024px) {
+	.footer__authors-inner {
+		flex-direction: row;
+		align-items: center;
+	}
+}
+
+@media (max-width: 779px) {
+	.footer__authors-inner {
+		flex-direction: column;
+	}
+}
