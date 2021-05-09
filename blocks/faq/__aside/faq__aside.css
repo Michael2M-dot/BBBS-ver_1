@@ -1,0 +1,19 @@
+.faq__aside {
+  width: 100%;
+  grid-row: 1 / span 3;
+  height: 627px;
+}
+
+@media screen and (max-width: 1439px) {
+  .faq__aside {
+    height: 552px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .faq__aside {
+    grid-row: 1;
+    grid-column: 1/-1;
+    height: 433px;
+  }
+}

@@ -1,9 +1,8 @@
 .card_size_xl {
-  width: 100%;
 }
 
 .card_size_l {
-  width: 870px;
+  min-height: 520px;
 }
 
 .card_size_m {

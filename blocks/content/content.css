@@ -1,4 +1,5 @@
 .content {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -10,4 +11,9 @@
   .content {
     flex-direction: column;
   }
+=======
+  flex-shrink: 0;
+  display: grid;
+  row-gap: 30px;
+>>>>>>> feat/main_page
 }

@@ -8,10 +8,10 @@
   text-transform: uppercase;
   margin: 0;
 }
-
+/* 
 .card__tag_pos {
   margin-bottom: 5px;
-}
+} */
 
 .card__tag_pos_bottom {
   position: absolute;

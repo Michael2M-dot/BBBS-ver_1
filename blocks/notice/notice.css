@@ -1,0 +1,10 @@
+.notice {
+  display: block;
+  min-height: 490px;
+}
+
+@media screen and (max-width: 1439px) {
+  .notice {
+    min-height: 312px;
+  }
+}
