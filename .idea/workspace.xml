@@ -3,26 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8b100d23-580d-40a2-b81d-5d7afb45874e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/calendar/__plan/calendar__plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/calendar/__plan/calendar__plan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/calendar/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/calendar/calendar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/card/__author/card__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__author/card__author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__image/card__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__image/card__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__tag/card__tag.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__tag/card__tag.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__text/card__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__text/card__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__title/card__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__title/card__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/_size/card_size.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/_size/card_size.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/_styles/content_styles_blockquote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/_styles/content_styles_blockquote.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/__container/page__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__container/page__container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/__content/page__content.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__content/page__content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/__header/page__header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__header/page__header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__link/card__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__link/card__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__tag/card__tag-wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__tag/card__tag_pos_video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__title/_pos/card__title_pos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__video/card__video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__video/card__video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/PT Root UI_Regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/PT Root UI_Regular.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/PTRootUIRegular.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/PTRootUIRegular.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

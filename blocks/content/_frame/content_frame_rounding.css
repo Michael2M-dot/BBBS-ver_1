@@ -1,3 +1,4 @@
 .content_frame_rounding {
   border-radius: 30px;
+  overflow: hidden;
 }
