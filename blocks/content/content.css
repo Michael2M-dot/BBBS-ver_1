@@ -1,12 +1,5 @@
 .content {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
-@media screen and (max-width: 1024px) {
-  .content {
-    flex-direction: column;
-  }
+  flex-shrink: 0;
+  display: grid;
+  row-gap: 30px;
 }

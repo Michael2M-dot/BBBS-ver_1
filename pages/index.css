@@ -2,13 +2,15 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/vars/vars.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__content/page__content.css);
 @import url(../blocks/page/__container/page__container.css);
+@import url(../blocks/page/__content/page__content.css);
 @import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/section/section.css);
 
 @import url(../blocks/content/content.css);
-@import url(../blocks/content/__card/content__card.css);
+@import url(../blocks/content/__section/content__section.css);
 @import url(../blocks/content/_frame/content_frame_rounding.css);
 /* цвета для заливки background */
 @import url(../blocks/content/_colors/content_colors_blue.css);
@@ -42,6 +44,7 @@
 @import url(../blocks/content/_styles/content_styles_book.css);
 @import url(../blocks/content/_styles/content_styles_photo.css);
 @import url(../blocks/content/_styles/content_styles_video.css);
+@import url(../blocks/content/_styles/content_styles_notice.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__nav-list/header__nav-list.css);
@@ -59,20 +62,36 @@
 @import url(../blocks/card/__tag/card__tag.css);
 @import url(../blocks/card/__tag/card__tag-wrapper.css);
 @import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__title/_pos/card__title_pos.css);
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__author/card__author.css);
+@import url(../blocks/card/__author/_pos/card__author_pos_center.css);
 @import url(../blocks/card/__link/card__link.css);
+@import url(../blocks/card/__link/_pos/card__link_pos.css);
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__image/card__image.css);
 @import url(../blocks/card/__video/card__video.css);
 @import url(../blocks/button/button.css);
 /* времменные размеры для отрисовки */
-@import url(../blocks/card/_size/card_size.css);
+/* @import url(../blocks/card/_size/card_size.css); */
 
 @import url(../blocks/card/card.css);
-@import url(../blocks/card/card_1.css);
 @import url(../blocks/card/card_video.css);
 /* временный селектор для передачи размера */
+
+@import url(../blocks/newsbrake/newsbrake.css);
+@import url(../blocks/newsbrake/__events/newsbrake__events.css);
+@import url(../blocks/newsbrake/__story/newsbrake__story.css);
+@import url(../blocks/newsbrake/__title/newsbrake__title.css);
+
+@import url(../blocks/article/article.css);
+@import url(../blocks/article/__section/article__section.css);
+
+@import url(../blocks/notice/notice.css);
+@import url(../blocks/notice/__text/notice__text.css);
+@import url(../blocks/notice/__link/notice__link.css);
+/* @import url(../blocks/article/_card-size/article_card-size_l.css);
+@import url(../blocks/article/_card-size/article_card-size_s.css); */
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/calendar/calendar.css);
@@ -92,7 +111,6 @@
 @import url(../blocks/calendar/__button-img/calendar__button-img.css);
 
 /*----------------------- Блок Page ------------------------------ */
-@import url("../blocks/page/__footer/page__footer.css");
 
 /*----------------------- Блок Footer ------------------------------ */
 
@@ -113,4 +131,4 @@
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer/__developers/footer__developers.css");
 @import url("../blocks/footer/__link-developers/footer__link-developers.css");
-@import url("../blocks/footer/__design/footer__design.css");
+@import url("../blocks/footer/__design/footer__design.css"); ;

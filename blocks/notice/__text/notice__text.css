@@ -1,0 +1,16 @@
+.notice__text {
+  margin: 0;
+  width: 970px;
+  font-size: 44px;
+  line-height: 50px;
+  text-align: center;
+  color: var(--text-color_black);
+}
+
+@media screen and (max-width: 1439px) {
+  .notice__text {
+    font-size: 19px;
+    line-height: 23px;
+    width: 100%;
+  }
+}

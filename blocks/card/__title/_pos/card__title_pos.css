@@ -1,0 +1,10 @@
+.card__title_pos {
+  margin: 15px auto 5px;
+  align-self: flex-start;
+}
+
+@media screen and (max-width: 1439px) {
+  .card__title_pos {
+    margin-top: 5px;
+  }
+}

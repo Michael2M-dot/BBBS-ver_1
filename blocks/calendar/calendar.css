@@ -1,6 +1,5 @@
 .calendar {
-  border: 1px solid red;
-  width: 570px;
   padding: 30px;
   position: relative;
+  /* min-height: 100%; */
 }
