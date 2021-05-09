@@ -1,6 +1,8 @@
 .notice__text {
   margin: 0;
   width: 970px;
+  font-family: "Proto Grotesk Light", Arial, Helvetica, sans-serif;
+  font-weight: 300;
   font-size: 44px;
   line-height: 50px;
   text-align: center;

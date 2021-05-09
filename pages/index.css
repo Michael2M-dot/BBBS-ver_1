@@ -100,6 +100,13 @@
 @import url(../blocks/video-grid/__card-title/video-grid__card-title.css);
 @import url(../blocks/video-grid/__card-author/video-grid__card-author.css);
 @import url(../blocks/video-grid/__card-link/video-grid__card-link.css);
+
+@import url(../blocks/video-section/video-section.css);
+@import url(../blocks/video-section/__caption/video-section__caption.css);
+@import url(../blocks/video-section/__author/video-section__author.css);
+@import url(../blocks/video-section/__link/video-section__link.css);
+@import url(../blocks/video-section/__title/video-section__title.css);
+@import url(../blocks/video-section/__card-image/video-section__card-image.css);
 /* @import url(../blocks/article/_card-size/article_card-size_l.css);
 @import url(../blocks/article/_card-size/article_card-size_s.css); */
 
