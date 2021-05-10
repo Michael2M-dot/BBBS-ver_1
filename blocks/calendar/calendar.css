@@ -2,8 +2,8 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  /* max-height: 414px;
-  max-width: 570px; */
+  max-height: 414px;
+
   box-sizing: border-box;
   background: #ffffff;
   padding: 30px;
