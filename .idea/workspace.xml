@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b100d23-580d-40a2-b81d-5d7afb45874e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__author/card__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__author/card__author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__link/card__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__link/card__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__tag/card__tag-wrapper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__tag/card__tag_pos_video.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__title/_pos/card__title_pos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__video/card__video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__video/card__video.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__container/footer__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__container/footer__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/__footer/page__footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__footer/page__footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
