@@ -119,8 +119,6 @@
 @import url(../blocks/faq/__aside/faq__aside.css);
 @import url(../blocks/faq/__questions/faq__questions.css);
 @import url(../blocks/faq/__title/faq__title.css);
-/* @import url(../blocks/article/_card-size/article_card-size_l.css);
-@import url(../blocks/article/_card-size/article_card-size_s.css); */
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/calendar/calendar.css);
@@ -139,10 +137,6 @@
 @import url(../blocks/calendar/__button-option/calendar__button-option.css);
 @import url(../blocks/calendar/__button-img/calendar__button-img.css);
 @import url(../blocks/calendar/__head-wrap/calendar__head-wrap.css);
-
-/*----------------------- Блок Page ------------------------------ */
-
-/*----------------------- Блок Footer ------------------------------ */
 
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__container/footer__container.css");
