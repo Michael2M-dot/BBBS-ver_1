@@ -7,6 +7,12 @@
   line-height: 19px;
 
   letter-spacing: 0.2px;
+}
 
-  color: #000000;
+@media screen and (max-width: 1242px) {
+  .calendar__count {
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 5px;
+  }
 }

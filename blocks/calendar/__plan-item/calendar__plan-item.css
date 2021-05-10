@@ -1,13 +1,38 @@
 .calendar__plan-item {
-  padding: 10px 0;
+  padding: 8px 0;
   border-bottom: 1px solid #a7a6a6;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 0.2px;
+
+  color: #1a1a1a;
 }
 
 .calendar__plan-item:first-of-type {
-  padding: 0 0 10px 0;
+  padding: 0 0 8px 0;
 }
 
 .calendar__plan-item:last-of-type {
-  padding: 10px 0 0 0;
+  padding: 8px 0 0 0;
   border-bottom: 0;
+}
+
+@media screen and (max-width: 1242px) {
+  .calendar__plan-item {
+    padding: 4px 0;
+
+    font-size: 12px;
+    line-height: 17px;
+  }
+
+  .calendar__plan-item:first-of-type {
+    padding: 0 0 4px 0;
+  }
+
+  .calendar__plan-item:last-of-type {
+    padding: 4px 0 0 0;
+  }
 }
