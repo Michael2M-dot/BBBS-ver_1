@@ -156,4 +156,6 @@
 @import url("../blocks/footer/__developers/footer__developers.css");
 @import url("../blocks/footer/__link-developers/footer__link-developers.css");
 @import url("../blocks/footer/__design/footer__design.css");
+
 @import url(../blocks/about.css);
+@import url(../blocks/card-elipses.css);
