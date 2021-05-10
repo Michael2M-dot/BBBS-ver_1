@@ -1,6 +1,23 @@
 .calendar {
-  border: 1px solid red;
-  width: 570px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 414px;
+  box-sizing: border-box;
+  background: #ffffff;
   padding: 30px;
   position: relative;
+  /* min-height: 100%; */
+}
+
+@media screen and (max-width: 1439px) {
+  .calendar {
+    min-height: 382px;
+  }
+}
+
+@media screen and (max-width: 1242px) {
+  .calendar {
+    padding: 30px 15px;
+  }
 }

@@ -1,0 +1,7 @@
+.card__tag_pos_video {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  bottom: 9px;
+  left: auto;
+}

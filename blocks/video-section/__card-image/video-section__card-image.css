@@ -1,0 +1,17 @@
+.video-section__card-image {
+  background-image: url("../../../images/image\ 6.jpg");
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 1439px) {
+  .video-section__card-image {
+    border-radius: 0px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    order: -1;
+  }
+}

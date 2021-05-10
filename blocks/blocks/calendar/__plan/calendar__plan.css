@@ -1,0 +1,14 @@
+.calendar__plan {  
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  letter-spacing: 0.2px;
+
+  color: #1a1a1a;
+}

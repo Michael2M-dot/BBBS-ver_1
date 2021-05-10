@@ -1,0 +1,15 @@
+.header__link {
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  cursor: pointer;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.header__link:hover {
+  opacity: 0.8;
+}

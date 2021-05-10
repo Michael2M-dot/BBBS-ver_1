@@ -1,0 +1,27 @@
+.faq__aside {
+  width: 100%;
+  /* width: 290px; */
+  grid-row: 1 / span 3;
+  min-height: 627px;
+}
+
+@media screen and (max-width: 1439px) {
+  .faq__aside {
+    max-width: 370px;
+  }
+}
+
+@media screen and (max-width: 1439px) {
+  .faq__aside {
+    min-height: 552px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .faq__aside {
+    grid-row: 1;
+    grid-column: 1/-1;
+    min-height: 433px;
+    min-width: 290px;
+  }
+}

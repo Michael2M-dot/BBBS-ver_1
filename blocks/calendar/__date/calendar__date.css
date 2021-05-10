@@ -4,3 +4,9 @@
   top: 30px;
   right: 30px;
 }
+
+@media screen and (max-width: 1242px) {
+  .calendar__date {
+    right: 15px;
+  }
+}

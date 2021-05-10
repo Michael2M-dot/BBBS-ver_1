@@ -1,5 +1,6 @@
 .calendar__plan {
-  margin-top: 90px;
+  max-width: 510px;
+  margin: 0;
   padding: 0;
   list-style: none;
 

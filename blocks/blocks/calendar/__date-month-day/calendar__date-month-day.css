@@ -1,0 +1,12 @@
+.calendar__date-month-day {
+  margin: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  text-align: right;
+  letter-spacing: 0.2px;
+
+  color: #000000;  
+}
