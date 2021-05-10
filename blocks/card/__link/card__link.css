@@ -5,12 +5,7 @@
   line-height: 19px;
   letter-spacing: 0.2px;
   color: var(--text-color_blue);
-}
-
-.card__link_pos {
-  align-self: flex-end;
-  margin: 0;
-  padding: 0;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 1040px) {

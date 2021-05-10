@@ -1,17 +1,13 @@
 .card__text {
-  margin-top: 10px;
   font-weight: 300;
   font-size: 18px;
   line-height: 26px;
   overflow-y: scroll;
+  margin-top: 5px;
 }
 
-.card__text_pos {
-  margin: 0;
-  margin-top: 10px;
-}
-@media screen and (max-width: 1040px) {
-  .card__link {
+@media screen and (max-width: 1439px) {
+  .card__text {
     font-size: 15px;
     line-height: 21px;
   }

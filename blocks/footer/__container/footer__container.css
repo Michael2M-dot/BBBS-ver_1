@@ -1,4 +1,6 @@
 .footer__container {
-	max-width: max-content;
-	margin: 0 auto;
+  /* width: 100%; */
+  min-height: 235px;
+  /* min-height: 335px; */
+  margin: 0;
 }

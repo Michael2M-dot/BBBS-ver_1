@@ -1,0 +1,11 @@
+.notice__link {
+  position: absolute;
+  right: auto;
+  bottom: 30px;
+}
+
+@media screen and (max-width: 1439px) {
+  .notice__link {
+    bottom: 15px;
+  }
+}

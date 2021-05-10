@@ -1,8 +1,30 @@
 .content__calendar {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, minmax(570px, 1fr));
+  /* width: 100%; */
+  margin: 0;
   padding: 0;
   list-style: none;
-  display: grid;
-  gap: 30px;  
-  grid-template-columns: repeat(auto-fill, 570px);
-  width: 100%;
+}
+
+@media screen and (max-width: 1919px) {
+  .content__calendar {
+    grid-template-columns: repeat(2, minmax(570px, 1fr));
+    /* grid-template-rows: minmax(1fr, 380px); */
+  }
+}
+
+@media screen and (max-width: 1439px) {
+  .content__calendar {
+    grid-template-columns: repeat(2, minmax(370px, 1fr));
+    /* grid-template-rows: minmax(fit-content, 358px); */
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .content__calendar {
+    grid-template-columns: minmax(290px, 1fr);
+    /* grid-template-rows: minmax(fit-content, 310px); */
+  }
 }

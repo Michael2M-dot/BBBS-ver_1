@@ -1,16 +1,19 @@
 .content_styles_blockquote {
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: flex-start;
   margin: 0;
-  padding-top: 30px;
+  padding: 47px 15px 69px 30px;
+
+  /* padding-top: 30px;
   padding-left: 30px;
   padding-bottom: 30px;
-  padding-right: 30px;
+  padding-right: 30px; */
 }
 
 @media screen and (max-width: 1439px) {
   .content_styles_blockquote {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 30px 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
   }
 }

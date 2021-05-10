@@ -1,0 +1,11 @@
+.video-section__link {
+  position: absolute;
+  left: auto;
+  bottom: 30px;
+}
+
+@media screen and (max-width: 1439px) {
+  .video-section__link {
+    bottom: 15px;
+  }
+}
