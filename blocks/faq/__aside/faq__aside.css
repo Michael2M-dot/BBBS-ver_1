@@ -1,12 +1,19 @@
 .faq__aside {
   width: 100%;
+  /* width: 290px; */
   grid-row: 1 / span 3;
-  height: 627px;
+  min-height: 627px;
 }
 
 @media screen and (max-width: 1439px) {
   .faq__aside {
-    height: 552px;
+    max-width: 370px;
+  }
+}
+
+@media screen and (max-width: 1439px) {
+  .faq__aside {
+    min-height: 552px;
   }
 }
 
@@ -14,6 +21,7 @@
   .faq__aside {
     grid-row: 1;
     grid-column: 1/-1;
-    height: 433px;
+    min-height: 433px;
+    min-width: 290px;
   }
 }
