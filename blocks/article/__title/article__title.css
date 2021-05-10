@@ -1,6 +1,7 @@
 .article__title {
+  max-height: 46px;
   margin: 15px auto 5px;
-  align-self: flex-start;
+  text-align: center;
 }
 
 @media screen and (max-width: 1439px) {
