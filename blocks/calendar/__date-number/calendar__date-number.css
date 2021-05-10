@@ -8,3 +8,12 @@
   line-height: 100px;
   letter-spacing: -2px;
 }
+
+@media screen and (max-width: 1242px) {
+  .calendar__date-number {
+    font-style: normal;
+
+    font-size: 60px;
+    line-height: 60px;
+  }
+}
