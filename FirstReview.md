@@ -29,9 +29,9 @@ About:
 
 Главная
 
-    В index-1.html указан <html lang="en">
-    В index-1.html в заголовке желтой карточки есть горизонтальная прокрутка http://joxi.ru/DmBKbKkIgk97x2 и на некоторой ширине часть заголовка скрывается http://joxi.ru/D2PNPNpCBZ7jNr
-    В index-1.html иконка человечка в хэдере header__icon-user должна быть синего цвета
+    + В index-1.html указан <html lang="en"> исправил
+    + В index-1.html в заголовке желтой карточки есть горизонтальная прокрутка http://joxi.ru/DmBKbKkIgk97x2 и на некоторой ширине часть заголовка скрывается http://joxi.ru/D2PNPNpCBZ7jNr
+    + В index-1.html иконка человечка в хэдере header__icon-user должна быть синего цвета
     Хорошо бы картнике в video-section__card-image выбрать другой background-position http://joxi.ru/Y2L1P1GcMWRw6A
     Здесь некорректно отображается шрифт http://joxi.ru/Dr8zJzLcJLNkD2
     newsbrake__story должно быть блоком, а не элементом.

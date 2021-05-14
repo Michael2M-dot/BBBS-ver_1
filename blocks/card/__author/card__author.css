@@ -1,14 +1,16 @@
 .card__author {
+  min-height: 19px;
   font-weight: 400;
   font-size: 14px;
   line-height: 19px;
   letter-spacing: 0.2px;
+  text-align: center;
   color: var(--text-color_gray_dark);
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 /* .card__author_pos_center {
@@ -23,6 +25,7 @@
 /* размер шрифта переключаем на 1024 */
 @media screen and (max-width: 1024px) {
   .card__author {
+    min-height: 17px;
     font-size: 12px;
     line-height: 17px;
   }

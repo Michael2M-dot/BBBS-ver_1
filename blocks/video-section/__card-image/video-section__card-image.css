@@ -1,8 +1,9 @@
 .video-section__card-image {
-  background-image: url("../../../images/image\ 6.jpg");
+  background-image: url("../../../images/image 6.jpg");
+  object-fit: contain;
   overflow: hidden;
-  background-size: cover;
-  background-position: center;
+  /*background-size: cover;*/
+  background-position: top;
   background-repeat: no-repeat;
   border-radius: 30px;
 }

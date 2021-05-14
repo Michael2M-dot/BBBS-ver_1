@@ -1,9 +1,0 @@
-.header_visability_visible {
-  display: flex;
-}
-
-@media screen and (max-width: 1439px) {
-  .header_visability_visible {
-    display: none;
-  }
-}

@@ -1,9 +1,0 @@
-.footer__menu_content_social {
-}
-
-@media (max-width: 320px) {
-	.footer__menu_content_social {
-		margin: 0 auto;
-		padding: 0 20px;
-	}
-}

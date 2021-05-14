@@ -60,10 +60,12 @@
 @import url(../blocks/header/__frame/header__frame.css);
 @import url(../blocks/header/__icon-search/header__icon-search.css);
 @import url(../blocks/header/__icon-user/header__icon-user.css);
+@import url(../blocks/header/__icon-user/_active/header__icon-user_active.css);
 @import url(../blocks/header/__aside-menu/header__aside-menu.css);
 @import url(../blocks/header/__vl/header__vl.css);
 @import url(../blocks/header/_visibility/header_visability_hide.css);
 @import url(../blocks/header/_visibility/header_visability_visible.css);
+
 
 @import url(../blocks/card/__tag/card__tag.css);
 @import url(../blocks/card/__tag/card__tag-wrapper.css);
@@ -86,9 +88,9 @@
 /* временный селектор для передачи размера */
 
 @import url(../blocks/newsbrake/newsbrake.css);
-@import url(../blocks/newsbrake/__events/newsbrake__events.css);
-@import url(../blocks/newsbrake/__story/newsbrake__story.css);
-@import url(../blocks/newsbrake/__title/newsbrake__title.css);
+@import url(../blocks/newsbrake-event/newsbrake-events.css);
+@import url(../blocks/newsbrake-story/newsbrake-story.css);
+@import url(../blocks/newsbrake-story/__title/newsbrake-story__title.css);
 
 @import url(../blocks/article/article.css);
 @import url(../blocks/article/__title/article__title.css);
