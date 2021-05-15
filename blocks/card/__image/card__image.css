@@ -12,14 +12,14 @@
 
 @media screen and (max-width: 1439px) {
   .card__image {
-    max-height: 346px;
+    /*max-height: 346px;*/
     margin-top: 62px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .card__image {
-    max-height: 142px;
+    /*max-height: 142px;*/
     margin-top: 39px;
   }
 }

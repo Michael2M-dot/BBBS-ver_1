@@ -1,5 +1,5 @@
 .card__link {
-  font-family: "Proto Grotesk Light";
+  font-family: "Proto Grotesk Light", Helvetica, sans-serif;
   font-weight: 300;
   font-size: 15px;
   line-height: 19px;
@@ -8,7 +8,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1024px) {
   .card__link {
     font-size: 12px;
     line-height: 17px;

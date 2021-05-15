@@ -29,12 +29,12 @@ About:
 
 Главная (исправлю МММ)
 
-    + (исправил)  В index-1.html указан <html lang="en"> исправил
+    + (исправил) В index-1.html указан <html lang="en"> исправил.
     + (исправил) В index-1.html в заголовке желтой карточки есть горизонтальная прокрутка http://joxi.ru/DmBKbKkIgk97x2 и на некоторой ширине часть заголовка скрывается http://joxi.ru/D2PNPNpCBZ7jNr
     + (исправил) В index-1.html иконка человечка в хэдере header__icon-user должна быть синего цвета
-    Хорошо бы картнике в video-section__card-image выбрать другой background-position http://joxi.ru/Y2L1P1GcMWRw6A
-    Здесь некорректно отображается шрифт http://joxi.ru/Dr8zJzLcJLNkD2
-    newsbrake__story должно быть блоком, а не элементом.
-    Тег article для card_elipses и newsbrake__story не очень подходит, так как article -это скорее статья в обычном понимании, как в газете, с текстовым содержанием.
-    notice__text больше подходит тег blockquote
-    У iframe нужно убрать из разметки атрибуты frameborder, scrolling, width, height, data-width. Значения перенесите в стили.
+    + (исправил) Хорошо бы картнике в video-section__card-image выбрать другой background-position http://joxi.ru/Y2L1P1GcMWRw6A
+    +(исправил) Здесь некорректно отображается шрифт http://joxi.ru/Dr8zJzLcJLNkD2
+    + (исправил) newsbrake__story должно быть блоком, а не элементом.
+    +(исправил0 Тег article для card_elipses и newsbrake__story не очень подходит, так как article -это скорее статья в обычном понимании, как в газете, с текстовым содержанием.
+    + (ипсправил) notice__text больше подходит тег blockquote
+    +(исправил) У iframe нужно убрать из разметки атрибуты frameborder, scrolling, width, height, data-width. Значения перенесите в стили.

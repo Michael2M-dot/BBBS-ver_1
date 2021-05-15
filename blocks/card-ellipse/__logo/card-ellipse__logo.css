@@ -1,0 +1,14 @@
+.card-ellipse__logo {
+  justify-self: left;
+  align-items: flex-start;
+  margin: 0;
+  width: 252px;
+  height: 46px;
+}
+
+@media screen and (max-width: 1439px) {
+  .card-ellipse__logo {
+    width: 164px;
+    height: 30px;
+  }
+}

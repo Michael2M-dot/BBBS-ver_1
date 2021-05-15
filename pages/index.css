@@ -9,6 +9,7 @@
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/section/section.css);
+@import url(../blocks/logo/logo.css);
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/content_main.css);
@@ -56,6 +57,7 @@
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 @import url(../blocks/header/__frame/header__frame.css);
 @import url(../blocks/header/__icon-search/header__icon-search.css);
@@ -66,11 +68,10 @@
 @import url(../blocks/header/_visibility/header_visability_hide.css);
 @import url(../blocks/header/_visibility/header_visability_visible.css);
 
-
 @import url(../blocks/card/__tag/card__tag.css);
-@import url(../blocks/card/__tag/card__tag-wrapper.css);
+/*@import url(../blocks/card/__tag/card__tag-wrapper.css);*/
 @import url(../blocks/card/__title/card__title.css);
-@import url(../blocks/card/__title/_pos/card__title_pos.css);
+/*@import url(../blocks/card/__title/_pos/card__title_pos.css);*/
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__author/card__author.css);
 @import url(../blocks/card/__author/_pos/card__author_pos_center.css);
@@ -79,7 +80,13 @@
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__image/card__image.css);
 @import url(../blocks/card/__video/card__video.css);
+@import url(../blocks/card-ellipse/card__ellipse.css);
+@import url(../blocks/card-ellipse/__logo/card-ellipse__logo.css);
+/*@import url(../blocks/card-ellipse/__text/card-ellipse__text.css);*/
+@import url(../blocks/card-ellipse/__top-figure/card-ellipse__top-figure.css);
+@import url(../blocks/card-ellipse/__bottom-figure/card-ellipse__bottom-figure.css);
 @import url(../blocks/button/button.css);
+
 /* времменные размеры для отрисовки */
 /* @import url(../blocks/card/_size/card_size.css); */
 
@@ -94,9 +101,10 @@
 
 @import url(../blocks/article/article.css);
 @import url(../blocks/article/__title/article__title.css);
-@import url(../blocks/article/__section/article__section.css);
+/*@import url(../blocks/article/__section/article__section.css);*/
 
 @import url(../blocks/notice/notice.css);
+@import url(../blocks/notice/__card/notice__card.css);
 @import url(../blocks/notice/__text/notice__text.css);
 @import url(../blocks/notice/__link/notice__link.css);
 
@@ -160,4 +168,4 @@
 @import url("../blocks/footer/__design/footer__design.css");
 
 @import url(../blocks/about.css);
-@import url(../blocks/card-elipses.css);
+/*@import url(../blocks/card-elipses.css);*/
