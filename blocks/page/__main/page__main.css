@@ -1,26 +1,26 @@
-.page__main {
-<<<<<<< HEAD
-  width: calc(100% - 2 * 75px);
-  margin: 0 auto;
-}
+/*.page__main {*/
+/*!*<<<<<<< HEAD*!*/
+/*!*  width: calc(100% - 2 * 75px);*!*/
+/*!*  margin: 0 auto;*!*/
+/*!*}*!*/
 
-@media screen and (max-width: 1919px) {
-  .page__header {
-    width: calc(100% - 2 * 135px);
-  }
-}
+/*!*@media screen and (max-width: 1919px) {*!*/
+/*!*  .page__header {*!*/
+/*!*    width: calc(100% - 2 * 135px);*!*/
+/*!*  }*!*/
+/*!*}*!*/
 
-@media screen and (max-width: 1439px) {
-  .page__header {
-    width: calc(100% - 2 * 117px);
-  }
-}
+/*!*@media screen and (max-width: 1439px) {*!*/
+/*!*  .page__header {*!*/
+/*!*    width: calc(100% - 2 * 117px);*!*/
+/*!*  }*!*/
+/*!*}*!*/
 
-@media screen and (max-width: 1023px) {
-  .page__header {
-    width: 100%;
-  }
-=======
-  /* width: 1170px; */
->>>>>>> 7178e9c1b16d78b8f2569cb650730ea0a2cbedc9
-}
+/*!*@media screen and (max-width: 1023px) {*!*/
+/*!*  .page__header {*!*/
+/*!*    width: 100%;*!*/
+/*!*  }*!*/
+/*!*=======*!*/
+/*  !* width: 1170px; *!*/
+
+/*}*/
