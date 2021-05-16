@@ -98,7 +98,7 @@
 /* временный селектор для передачи размера */
 
 @import url(../blocks/newsbrake/newsbrake.css);
-@import url(../blocks/newsbrake-event/newsbrake-events.css);
+@import url(../blocks/newsbrake-event/newsbrake-event.css);
 @import url(../blocks/newsbrake-story/newsbrake-story.css);
 @import url(../blocks/newsbrake-story/__title/newsbrake-story__title.css);
 
@@ -135,6 +135,7 @@
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/calendar/calendar.css);
+@import url(../blocks/calendar/__event/calendar__event.css);
 @import url(../blocks/calendar/__count-span/calendar__count-span.css);
 @import url(../blocks/calendar/__count/calendar__count.css);
 @import url(../blocks/calendar/__date-month-day/calendar__date-month-day.css);

@@ -1,0 +1,25 @@
+ .newsbrake-event {
+  max-height: 414px;
+     max-width: 570px;
+}
+
+/*@media screen and (max-width: 1919px) {*/
+/*  .newsbrake__events {*/
+/*    min-height: 414px;*/
+/*  }*/
+/*}*/
+
+/*@media screen and (max-width: 1439px) {*/
+/*  .newsbrake__events {*/
+/*    min-height: 382px;*/
+/*  }*/
+/*} */
+
+/* 
+@media screen and (max-width: 1023px) {
+  .newsbrake__events {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, fit-content);
+    grid-template-rows: repeat(2, minmax(fit-content, 382px));
+  }
+}  */
