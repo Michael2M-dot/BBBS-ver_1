@@ -1,0 +1,13 @@
+.popup-entry__fieldset{
+    width: 100%;
+    min-height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0 auto 20px;
+}
+
+/*.popup-entry__fieldset:last-of-type {*/
+/*    margin-bottom: 31px;*/
+/*}*/

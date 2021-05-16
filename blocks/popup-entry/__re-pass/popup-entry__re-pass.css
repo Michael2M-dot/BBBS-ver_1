@@ -1,0 +1,9 @@
+.popup-entry__re-pass{
+    font-family: "PTRootUIWebRegular", Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    margin: 0 0 31px;
+    text-align: start;
+    color: var(--text-color_gray_dark);
+}

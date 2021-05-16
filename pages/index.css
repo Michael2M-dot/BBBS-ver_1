@@ -204,3 +204,14 @@
 @import url(../blocks/popup-location/__title/popup-location__title.css);
 @import url(../blocks/popup-location/__top/popup-location__top.css);
 @import url(../blocks/popup-location/__city/popup-location__city.css);
+
+@import url(../blocks/popup-entry/popup-entry.css);
+@import url(../blocks/popup-entry/__title/popup-entry__title.css);
+@import url(../blocks/popup-entry/__text-wrapper/popup-entry__text-wrapper.css);
+@import url(../blocks/popup-entry/__text/popup-entry__text.css);
+@import url(../blocks/popup-entry/__form/popup-entry__form.css);
+@import url(../blocks/popup-entry/__fieldset/popup-entry__fieldset.css);
+@import url(../blocks/popup-entry/__form-input/popup-entry__form-input.css);
+@import url(../blocks/popup-entry/__re-pass/popup-entry__re-pass.css);
+
+

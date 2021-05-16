@@ -603,6 +603,61 @@
 
       </section>
 
+      <section class="page__popup popup content section page__popup_visible">
+        <div class="popup__window popup-entry content_frame_rounding content_colors_white">
+          <h3 class="popup-entry__title">Вход</h3>
+          <div class="popup-entry__text-wrapper">
+            <p class="popup-entry__text">Вход в личный кабинет доступен наставникам программы
+              «Старшие Братья Старшие Сёстры».</p>
+            <p class="popup-entry__text">Пожалуйста, введите логин и пароль из письма.
+              Если вам не приходило письмо, свяжитесь с вашим куратором.</p>
+          </div>
+          <form
+                  class="popup-entry__form"
+                  id="form-entry"
+                  name="userForm"
+                  autocomplete="off"
+                  novalidate
+          >
+            <label class="popup-entry__fieldset" for="user-login-input">
+              <input
+                      type="text"
+                      class="popup-entry__form-input section content_colors_gray_light"
+                      id="user-login-input"
+                      name="userLogin"
+                      placeholder="Логин"
+                      required
+                      maxlength="20"
+                      minlength="2"
+              />
+            </label>
+            <label class="popup-entry__fieldset" for="user-password-input">
+              <input
+                      type="password"
+                      class="popup-entry__form-input section content_colors_gray_light"
+                      id="user-password-input"
+                      name="userPassword"
+                      placeholder="Пароль"
+                      required
+                      maxlength="20"
+                      minlength="2"
+              />
+            </label>
+            <span class="popup-entry__re-pass" id="restore-password">Забыли пароль?</span>
+            <button
+                    arial-lable="Создать карточку нового места"
+                    type="submit"
+                    class="button content_frame_colors_gray-light content_text-colors_gray_light content_colors_white"
+                    id="place-submit"
+            >
+              Войти
+            </button>
+          </form>
+
+
+        </div>
+      </section>
+
     </div>
   </body>
 </html>

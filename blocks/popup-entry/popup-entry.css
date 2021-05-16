@@ -1,0 +1,13 @@
+.popup-entry{
+    width: 770px;
+    height: 559px;
+    padding: 50px 100px;
+}
+
+@media screen and (max-width: 1024px) {
+    .popup-entry {
+        width: 290px;
+        height: 546px;
+        padding: 50px 15px;
+    }
+}

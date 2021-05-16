@@ -1,0 +1,16 @@
+.popup-entry__text-wrapper{
+    width: 547px;
+    height: 129px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto 50px;
+}
+
+@media screen and (max-width: 1024px) {
+    .popup-entry__text-wrapper {
+        width: 260px;
+        height: 176px;
+    }
+}
