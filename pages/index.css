@@ -9,6 +9,7 @@
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/page/__section/page__section.css);
 @import url(../blocks/page/__popup/page__popup.css);
+/*класс для отображения попапа*/
 @import url(../blocks/page/__popup/_visible/page__popup_visible.css);
 @import url(../blocks/section/section.css);
 @import url(../blocks/logo/logo.css);
