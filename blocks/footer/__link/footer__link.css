@@ -5,4 +5,9 @@
   color: white;
   text-transform: uppercase;
   text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer__link:hover{
+  opacity: 0.8;
 }
