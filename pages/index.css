@@ -15,6 +15,7 @@
 @import url(../blocks/content/content_main.css);
 @import url(../blocks/content/__section/content__section.css);
 @import url(../blocks/content/_frame/content_frame_rounding.css);
+@import url(../blocks/content/_frame/content_frame_circle.css);
 @import url(../blocks/content/__title/content__title.css);
 @import url(../blocks/content/__tags/content__tags.css);
 /* цвета для заливки background */
@@ -168,4 +169,18 @@
 @import url("../blocks/footer/__design/footer__design.css");
 
 @import url(../blocks/about.css);
+@import url(../blocks/about-us/about-us.css);
+@import url(../blocks/about-us-peak/about-us-peak.css);
+@import url(../blocks/about-us/__logo/about-us__logo.css);
+@import url(../blocks/about-us/__title/about-us__title.css);
+@import url(../blocks/about-us/__blockquote/about-us__blackquote.css);
+@import url(../blocks/figure/figure.css);
+@import url(../blocks/figure/__circle/figure__circle.css);
+@import url(../blocks/figure/__title/figure__title.css);
+@import url(../blocks/figure/__square/figure__square.css);
+@import url(../blocks/figure/__text/figure__text.css);
+@import url(../blocks/about-us-cards/about-us-cards.css);
+@import url(../blocks/about-us-card/about-us-card.css);
+@import url(../blocks/about-us-card/__top-elm/about-us-card__top-elm.css);
+@import url(../blocks/about-us-card/__bottom-elm/about-us-card__bottom-elm.css);
 /*@import url(../blocks/card-elipses.css);*/

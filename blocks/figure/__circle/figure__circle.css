@@ -1,0 +1,51 @@
+.figure__circle{
+    /*width: calc(370px + 200 * ((100vw - 1024px) / 896));*/
+    /*height: calc(370px + 200 * ((100vw - 1024px) / 896));*/
+    /*border-radius: 100%;*/
+    /*width: 100%;*/
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    justify-self: center;
+}
+@media (min-width: 1920px) {
+    .figure__circle {
+        /*width: 570px;*/
+        /*height: 570px;*/
+    }
+}
+
+@media (max-width: 1439px) {
+    .figure__circle {
+        max-width: 370px;
+    }
+}
+
+@media (max-width: 767px) {
+    .figure__circle {
+        max-width: 290px;
+    }
+}
+
+
+
+
+
+/*.circle {*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: center;*!*/
+/*    !*align-items: center;*!*/
+/*    !*align-self: center;*!*/
+/*    !*box-sizing: border-box;*!*/
+/*    !*flex-shrink: 0;*!*/
+/*    width: calc(370px + 200 * ((100vw - 1024px) / 896));*/
+/*    height: calc(370px + 200 * ((100vw - 1024px) / 896));*/
+/*    background-color: rgba(248, 209, 98, 1);*/
+/*    border-radius: 100%;*/
+/*}*/
+/*@media (min-width: 1920px) {*/
+/*    .circle {*/
+/*        width: 570px;*/
+/*        height: 570px;*/
+/*    }*/
+/*}*/

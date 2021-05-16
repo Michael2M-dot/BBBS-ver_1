@@ -1,0 +1,8 @@
+.figure__text {
+    margin: 0 0 22px;
+    overflow: visible;
+}
+
+.figure__text:last-child{
+    margin-bottom: 0;
+}
