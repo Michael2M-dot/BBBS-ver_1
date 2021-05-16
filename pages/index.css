@@ -15,7 +15,7 @@
 @import url(../blocks/logo/logo.css);
 
 @import url(../blocks/content/content.css);
-@import url(../blocks/content/content_main.css);
+@import url(../blocks/content/contant_main.css);
 @import url(../blocks/content/__section/content__section.css);
 @import url(../blocks/content/_frame/content_frame_rounding.css);
 @import url(../blocks/content/_frame/content_frame_circle.css);
