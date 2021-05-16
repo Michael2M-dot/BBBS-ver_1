@@ -1,11 +1,11 @@
 .footer__developers {
-	margin: 0;
-	margin-right: 30px;
+  margin: 0;
+  margin-right: 30px;
 }
 
 @media (max-width: 779px) {
-	.footer__developers {
-		margin-right: 0;
-		margin-bottom: 5px;
-	}
+  .footer__developers {
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
 }

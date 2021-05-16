@@ -1,15 +1,15 @@
 .footer__line {
-	display: none;
-	width: 100%;
-	max-width: 770px;
-	height: 1px;
-	margin-bottom: 20px;
+  display: none;
+  width: 100%;
+  max-width: 770px;
+  height: 1px;
+  margin-bottom: 20px;
 
-	background-color: #c8d1ff;
+  background-color: #c8d1ff;
 }
 
 @media (max-width: 1024px) {
-	.footer__line {
-		display: block;
-	}
+  .footer__line {
+    display: block;
+  }
 }

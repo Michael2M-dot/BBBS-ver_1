@@ -39,6 +39,6 @@
 @media screen and (max-width: 835px) {
   .newsbrake {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 382px;
+    grid-template-rows: minmax(auto, 382px) minmax(auto, 290px);
   }
 }

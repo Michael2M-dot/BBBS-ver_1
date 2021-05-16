@@ -1,0 +1,14 @@
+.about-us__blockquote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 220px;
+    border-top: 1px solid var(--border-color_black);
+    border-bottom: 1px solid var(--border-color_black);
+}
+
+@media (max-width: 1439px) {
+    .about-us__blockquote {
+        min-height: 120px;
+    }
+}

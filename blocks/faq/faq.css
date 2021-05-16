@@ -10,13 +10,12 @@
   .faq {
     grid-template-columns: 370px minmax(370px, 1fr);
     grid-template-rows: repeat(3, auto);
-    /* grid-template-rows: repeat(3, minmax(189px, 1fr)); */
   }
 }
 
 @media screen and (max-width: 1439px) {
   .faq {
-    grid-template-rows: repeat(auto-fit, minmax(161px, auto));
+    grid-template-rows: repeat(auto-fit, minmax(161px, 1fr));
   }
 }
 

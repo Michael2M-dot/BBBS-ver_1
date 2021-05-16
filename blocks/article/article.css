@@ -5,7 +5,29 @@
 
 @media screen and (max-width: 1439px) {
   .article {
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 188px;
+    grid-template-columns: 1fr 1fr;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .article {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(auto, 537px) 188px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .article {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(auto, 333px) 188px;
+  }
+}
+
+/*
+@media screen and (max-width: 1439px) {
+  .article {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(1fr 188px;
+  }
+}
+*/

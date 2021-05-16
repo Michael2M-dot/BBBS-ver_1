@@ -1,6 +1,7 @@
 .video-section__link {
   position: absolute;
-  left: auto;
+  /*left: 50%;*/
+  left: calc(50% - 58px);
   bottom: 30px;
 }
 

@@ -1,0 +1,25 @@
+.card-ellipse__bottom-figure {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 364px;
+  border-radius: 400px;
+  padding: 35px 15px;
+}
+
+@media screen and (max-width: 1440px) {
+  .card-ellipse__bottom-figure {
+    height: 290px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .card-ellipse__bottom-figure {
+    border-radius: 70px 70px 30px 30px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .card-ellipse__bottom-figure {
+    height: 255px;
+  }
+}

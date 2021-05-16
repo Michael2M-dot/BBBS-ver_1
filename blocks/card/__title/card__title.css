@@ -1,18 +1,11 @@
 .card__title {
-  font-family: "Proto Grotesk Light";
+  font-family: "Proto Grotesk Light", Helvetica, sans-serif;
   font-weight: 300;
   font-size: 23px;
   line-height: 30px;
-  text-align: center;
-  float: none;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow-y: hidden;
 }
 
-@media screen and (max-width: 1439px) {
+@media screen and (max-width: 1024px) {
   .card__title {
     font-size: 19px;
     line-height: 23px;

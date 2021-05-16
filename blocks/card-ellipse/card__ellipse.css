@@ -1,0 +1,13 @@
+.card__ellipse {
+  position: relative;
+  /*padding: 35px 30px;*/
+  max-width: 870px;
+  max-height: 520px;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1439px) {
+  .card__ellipse {
+  }
+}

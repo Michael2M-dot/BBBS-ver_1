@@ -1,14 +1,14 @@
 .footer__link-developers {
-	font-weight: normal;
-	font-size: 18px;
-	line-height: 1.44;
-	text-transform: none;
-	text-decoration: underline;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.44;
+  text-transform: none;
+  text-decoration: underline;
 }
 
 @media (max-width: 1024px) {
-	.footer__link-developers {
-		font-size: 12px;
-		line-height: 1.42;
-	}
+  .footer__link-developers {
+    font-size: 12px;
+    line-height: 1.42;
+  }
 }

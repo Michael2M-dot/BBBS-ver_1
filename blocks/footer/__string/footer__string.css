@@ -1,12 +1,12 @@
 .footer__string {
-	display: flex;
-	align-items: flex-start;
+  display: flex;
+  align-items: flex-start;
 }
 
 @media (max-width: 1024px) {
-	.footer__string {
-		flex-direction: column;
-		align-items: center;
-		margin-bottom: 30px;
-	}
+  .footer__string {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+  }
 }

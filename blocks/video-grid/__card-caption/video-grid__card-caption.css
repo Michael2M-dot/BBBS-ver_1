@@ -1,5 +1,5 @@
 .video-grid__card-caption {
-  max-height: 169px;
+  max-height: 147px;
   padding: 15px 30px;
   justify-content: flex-start;
   align-items: center;
@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 1023px) {
   .video-grid__card-caption {
-    max-height: 163px;
+    /*max-height: 163px;*/
     padding-left: 15px;
     padding-right: 15px;
   }
