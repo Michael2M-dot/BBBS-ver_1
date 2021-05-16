@@ -1,6 +1,6 @@
-.about-us-peak{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.about-us-peak {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

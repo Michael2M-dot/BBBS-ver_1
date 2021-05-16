@@ -1,14 +1,14 @@
-.about-us-card__top-elm{
-    min-height: 120px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 70px;
+.about-us-card__top-elm {
+  min-height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 70px;
 }
 
 @media (max-width: 1439px) {
-    .about-us-card__top-elm{
-        min-height: 70px;
-    }
+  .about-us-card__top-elm {
+    min-height: 70px;
+  }
 }

@@ -1,15 +1,15 @@
-.about-us-cards{
-    display: grid;
-    grid-template-columns: repeat(3, minmax(370px, 1fr));
-    grid-template-rows: minmax(385px, min-content);
-    gap: 30px;
-    justify-content: center;
-    align-items: center;
+.about-us-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(370px, 1fr));
+  grid-template-rows: minmax(385px, min-content);
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
 }
 
 @media screen and (max-width: 1439px) {
-    .about-us-cards{
-        grid-template-columns: minmax(290px, 570px);
-        grid-template-rows: repeat(3, minmax(min-content, 1fr));
-    }
+  .about-us-cards {
+    grid-template-columns: minmax(290px, 570px);
+    grid-template-rows: repeat(3, minmax(min-content, 1fr));
+  }
 }

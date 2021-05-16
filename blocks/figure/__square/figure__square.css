@@ -1,25 +1,25 @@
 .figure__square {
-    /*max-width: 600px;*/
-    width:100%;
-    height: 100%;
-    padding: 52px 30px;
+  /*max-width: 600px;*/
+  width: 100%;
+  height: 100%;
+  padding: 52px 30px;
 }
 
 @media (max-width: 1440px) {
-    .figure__square {
-        max-width: 570px;
-        max-height: 370px;
-        padding: 30px 15px;
-        justify-self: center;
-    }
+  .figure__square {
+    max-width: 570px;
+    max-height: 370px;
+    padding: 30px 15px;
+    justify-self: center;
+  }
 }
 
 @media (max-width: 767px) {
-    .figure__square {
-        max-height: 688px;
-        padding: 30px 15px;
-        justify-self: center;
-    }
+  .figure__square {
+    max-height: 688px;
+    padding: 30px 15px;
+    justify-self: center;
+  }
 }
 
 /*.square {*/

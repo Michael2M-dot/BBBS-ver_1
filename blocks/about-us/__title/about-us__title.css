@@ -1,12 +1,12 @@
 .about-us__title {
-    max-width: 1170px;
-    margin: 0 auto;
-    font-weight: 300;
-    font-size: 44px;
-    line-height: 50px;
-    font-family: "Proto Grotesk Web Light", Helvetica, sans-serif;
-    text-align: center;
-    font-style: normal;
+  max-width: 1170px;
+  margin: 0 auto;
+  font-weight: 300;
+  font-size: 44px;
+  line-height: 50px;
+  font-family: "Proto Grotesk Web Light", Helvetica, sans-serif;
+  text-align: center;
+  font-style: normal;
 }
 
 /*@media screen and (max-width: 1440px) {*/
@@ -15,12 +15,12 @@
 /*    }*/
 /*}*/
 
-@media screen and  (max-width: 1440px) {
-    .about-us__title {
-        font-size: 23px;
-        line-height: 30px;
-        /*margin-bottom: 30px;*/
-    }
+@media screen and (max-width: 1440px) {
+  .about-us__title {
+    font-size: 23px;
+    line-height: 30px;
+    /*margin-bottom: 30px;*/
+  }
 }
 
 /*
@@ -30,4 +30,3 @@
     }
 }
 */
-

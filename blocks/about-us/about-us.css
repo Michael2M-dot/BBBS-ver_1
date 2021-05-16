@@ -1,11 +1,11 @@
-.about-us{
-    display: grid;
-    grid-auto-rows: min-content;
-    gap:80px;
+.about-us {
+  display: grid;
+  grid-auto-rows: min-content;
+  gap: 80px;
 }
 
 @media screen and (max-width: 1439px) {
-    .about-us {
-        gap:50px;
-    }
+  .about-us {
+    gap: 50px;
+  }
 }

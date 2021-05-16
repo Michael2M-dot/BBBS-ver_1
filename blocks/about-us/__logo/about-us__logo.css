@@ -1,21 +1,21 @@
-.about-us__logo{
-    margin: 50px auto 0;
-    width: 357px;
-    height: 65px;
+.about-us__logo {
+  margin: 50px auto 0;
+  width: 357px;
+  height: 65px;
 }
 
 @media screen and (max-width: 1024px) {
-    .about-us__logo {
-        width: 252px;
-        height: 46px;
-        margin-top: 30px;
-    }
+  .about-us__logo {
+    width: 252px;
+    height: 46px;
+    margin-top: 30px;
+  }
 }
 
 @media screen and (max-width: 321px) {
-    .about-us__logo {
-        width: 252px;
-        height: 46px;
-        margin-top: 20px;
-    }
+  .about-us__logo {
+    width: 252px;
+    height: 46px;
+    margin-top: 20px;
+  }
 }

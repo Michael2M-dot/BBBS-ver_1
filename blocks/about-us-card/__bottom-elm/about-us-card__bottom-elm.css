@@ -1,11 +1,11 @@
-.about-us-card__bottom-elm{
-    padding: 30px;
-    justify-content: space-between;
-    align-items: center;
+.about-us-card__bottom-elm {
+  padding: 30px;
+  justify-content: space-between;
+  align-items: center;
 }
 
 @media screen and (max-width: 1024px) {
-    .about-us-card__bottom-elm{
-        padding: 30px 15px;
-    }
+  .about-us-card__bottom-elm {
+    padding: 30px 15px;
+  }
 }

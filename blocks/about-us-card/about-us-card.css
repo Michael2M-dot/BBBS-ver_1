@@ -1,5 +1,5 @@
-.about-us-card{
-    display: flex;
-    flex-direction: column;
-    max-width: 570px;
+.about-us-card {
+  display: flex;
+  flex-direction: column;
+  max-width: 570px;
 }
