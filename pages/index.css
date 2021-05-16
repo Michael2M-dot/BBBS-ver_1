@@ -30,6 +30,7 @@
 @import url(../blocks/content/_colors/content_colors_red.css);
 @import url(../blocks/content/_colors/content_colors_white.css);
 @import url(../blocks/content/_colors/content_colors_yellow.css);
+@import url(../blocks/content/_colors/content_colors_black.css);
 /* цвета для текстов color */
 @import url(../blocks/content/_text-colors/content_text-colors_black.css);
 @import url(../blocks/content/_text-colors/content_text-colors_blue.css);
@@ -44,6 +45,7 @@
 @import url(../blocks/content/_frame_colors/content_frame_colors_black.css);
 @import url(../blocks/content/_frame_colors/content_frame_colors_blue.css);
 @import url(../blocks/content/_frame_colors/content_frame_colors_blue_dark.css);
+@import url(../blocks/content/_frame_colors/content_frame_colors_gray-light.css);
 /* содержит стили по отсупам внутри блока по типам страниц */
 @import url(../blocks/content/_styles/content_styles_article.css);
 @import url(../blocks/content/_styles/content_styles_blockquote.css);
