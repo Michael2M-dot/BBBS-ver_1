@@ -1,0 +1,7 @@
+.popup__menu{
+    margin:0 26px 0 0;
+}
+
+.popup__menu:last-child{
+    margin-right: 0;
+}

@@ -1,0 +1,9 @@
+.popup__nav-menu{
+    /*width: 216px;*/
+    /*height: 159px;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 35px auto 0;
+}

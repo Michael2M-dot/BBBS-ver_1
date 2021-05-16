@@ -1,0 +1,16 @@
+.popup__footer{
+    width: 290px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-self: flex-end;
+    align-self: flex-end;
+    margin: 158px auto 0;
+}
+
+@media (max-width: 1439px){
+    .popup__footer{
+        margin-top: 50px;
+    }
+}

@@ -1,0 +1,9 @@
+.popup-location{
+    width: 320px;
+    height: 547px;
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}

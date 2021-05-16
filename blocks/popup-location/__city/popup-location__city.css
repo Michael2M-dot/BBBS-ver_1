@@ -1,0 +1,19 @@
+.popup-location__city {
+    font-family: "Proto Grotesk Light", Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 19px;
+    margin: 0 auto 10px;
+    text-decoration: none;
+    color: var(--text-color_black);
+    display: block;
+    transition: 0.3s;
+}
+
+.popup-location__city:last-of-type{
+    margin-bottom: 0;
+}
+
+.popup-location__city:hover{
+    opacity: 0.8;
+}
