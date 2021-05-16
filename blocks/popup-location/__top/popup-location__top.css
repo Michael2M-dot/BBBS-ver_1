@@ -1,11 +1,10 @@
-.popup-location__top{
-    height:63px;
-    width:290px;
-    border-bottom: .5px solid var(--border-color_gray_light);
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    margin-bottom: 15px;
-
+.popup-location__top {
+  height: 63px;
+  width: 290px;
+  border-bottom: 0.5px solid var(--border-color_gray_light);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 15px;
 }

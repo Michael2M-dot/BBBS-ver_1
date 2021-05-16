@@ -1,15 +1,15 @@
-.popup-entry__text{
-    font-family: "PTRootUIWebRegular", Helvetica, sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 26px;
-    margin: 0 auto;
-    text-align: center;
+.popup-entry__text {
+  font-family: "PTRootUIWebRegular", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 @media screen and (max-width: 1024px) {
-    .popup-entry__text{
-        font-size: 15px;
-        line-height: 21px;
-    }
+  .popup-entry__text {
+    font-size: 15px;
+    line-height: 21px;
+  }
 }

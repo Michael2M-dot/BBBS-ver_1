@@ -1,19 +1,19 @@
-.popup__link{
-    color: var(--text-color_black);
-    font-family: "Proto Grotesk Light", Helvetica, sans-serif;
-    margin: 0 0 15px;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 17px;
-    text-transform: uppercase;
-    text-decoration: none;
-    transition: 0.3s;
+.popup__link {
+  color: var(--text-color_black);
+  font-family: "Proto Grotesk Light", Helvetica, sans-serif;
+  margin: 0 0 15px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 0.3s;
 }
 
 .popup__link:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .popup__link:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }

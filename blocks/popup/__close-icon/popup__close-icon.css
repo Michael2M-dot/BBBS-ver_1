@@ -1,8 +1,8 @@
-.popup__close-icon{
-    background-image: url("../../../images/close_icon.svg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 20px;
-    height: 20px;
+.popup__close-icon {
+  background-image: url("../../../images/close_icon.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
 }

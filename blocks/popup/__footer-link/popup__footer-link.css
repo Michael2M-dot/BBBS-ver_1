@@ -1,9 +1,9 @@
-.popup__footer-link{
-    text-decoration: none;
-    color: var(--text-color_gray_light);
-    transition: 0.3s;
+.popup__footer-link {
+  text-decoration: none;
+  color: var(--text-color_gray_light);
+  transition: 0.3s;
 }
 
-.popup__footer-link:hover{
-    transition: 0.3s;
+.popup__footer-link:hover {
+  transition: 0.3s;
 }

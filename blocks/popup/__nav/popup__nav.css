@@ -1,9 +1,9 @@
-.popup__nav{
-    max-width: 1439px;
-    min-width: 320px;
-    width:100%;
-    /*height: 500px;*/
-    max-height: 500px;
-    padding: 10px 10px 30px;
-    border-radius: 0 0 30px 30px;
+.popup__nav {
+  max-width: 1439px;
+  min-width: 320px;
+  width: 100%;
+  /*height: 500px;*/
+  max-height: 500px;
+  padding: 10px 10px 30px;
+  border-radius: 0 0 30px 30px;
 }

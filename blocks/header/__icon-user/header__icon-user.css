@@ -1,5 +1,5 @@
 .header__icon-user {
-  background-image: url(../../../images/user_icon.svg);
+  background-image: url("../../../images/user_icon.svg");
   width: 30px;
   height: 30px;
 }

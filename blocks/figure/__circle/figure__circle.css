@@ -1,8 +1,4 @@
 .figure__circle {
-  /*width: calc(370px + 200 * ((100vw - 1024px) / 896));*/
-  /*height: calc(370px + 200 * ((100vw - 1024px) / 896));*/
-  /*border-radius: 100%;*/
-  /*width: 100%;*/
   align-items: center;
   justify-content: center;
   align-self: center;

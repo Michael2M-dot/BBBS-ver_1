@@ -6,10 +6,3 @@
   color: var(--text-color_white);
   background-color: var(--background_blue_dark);
 }
-
-/* @media (max-width: 1024px) {
-  .footer {
-    height: 100%;
-    padding: 40px 15px 0 15px;
-  }
-} */

@@ -7,10 +7,6 @@
   margin-right: 30px;
 }
 
-/* .header__nav-link:last-of-type {
-  margin-right: 0;
-} */
-
 .header__nav-link:hover {
   color: var(--background_blue);
 }
