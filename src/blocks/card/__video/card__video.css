@@ -1,5 +1,5 @@
 .card__video {
-  background-image: url("images/video_screen.png");
+  background-image: url("../../../images/video_screen.png");
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: contain;

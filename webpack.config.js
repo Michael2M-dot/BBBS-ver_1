@@ -49,6 +49,15 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: "./src/index.html",
     }),
+    new HtmlWebpackPlugin({
+      template: "./src/about.html",
+    }),
+    new HtmlWebpackPlugin({
+      template: "./src/calendar-pages.html",
+    }),
+    new HtmlWebpackPlugin({
+      template: "./src/index_1.html",
+    }),
     new CleanWebpackPlugin(),
     new MiniCssExtractPlugin(),
   ],
